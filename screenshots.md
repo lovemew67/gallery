@@ -1,4 +1,4 @@
-# Screenshots
+# screenshots
 <img width="1648" alt="macOS-dark" src="https://user-images.githubusercontent.com/6655696/82461901-32333500-9abb-11ea-800f-3f0fdba524eb.png">
 <img width="1648" alt="macOS-light" src="https://user-images.githubusercontent.com/6655696/82461846-23e51900-9abb-11ea-89cf-ca858265bf2c.png">
 <img width="540" alt="iPhone-dark" src="https://user-images.githubusercontent.com/6655696/73928221-035dce00-48d3-11ea-8906-1bf33629e527.png">
